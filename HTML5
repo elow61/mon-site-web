@@ -1,0 +1,116 @@
+<!doctype html>
+	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+		<head>
+			<title> Elodie Meunier Photographie </title>
+			<link rel="stylesheet" href="style.css">
+			<link href="https://fonts.googleapis.com/css?family=Fjord+One" rel="stylesheet">
+			<link rel="icon" type="image/png" href="images/favicon.png" />
+			<!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" /><![endif]-->
+
+			<meta charset="utf-8"/>
+			<meta name="viewport" content="width=device-width" />
+			<meta name="description" content="Porfolio d'Elodie Meunier">
+			
+		</head>
+
+		<body>
+
+			
+			<div id="main_wrapper">
+
+				<!-- en tête -->
+				<div id="header_nav">
+					<header>
+						<h1 class="elodiemeunier"> <a href="index.html" id="lien"> ElodieMeunierPhotographie </a> </h1>
+					</header>
+
+					<nav>
+						<ul>
+							<li> <a href="index.html"> Accueil </a> </li>
+							<li> <a href="porfolio.html"> Porfolio </a> </li>
+							<li> <a href="presentation.html"> Présentation </a> </li>
+							<li> <a href="contact.html"> Contact </a> </li>
+						</ul>
+					</nav>
+				</div>
+
+						
+				<!-- Corps de la page -->
+					
+				<section>
+					<aside>
+						
+						<div class="wrap"> <!-- Container -->
+
+                            <div id="arrow-left" class="arrow"></div> <!-- Flèche gauche -->
+
+                                <div id="slider">
+                                    <div class="slide slide1">
+                                        <div class="slide-content"> </div>
+                                    
+                                    </div>
+
+                                    <div class="slide slide2">
+                                        <div class="slide-content"> </div>
+                                        
+                                    </div>
+
+                                    <div class="slide slide3">
+                                        <div class="slide-content"> </div>
+                                        
+                                    </div>
+
+                                    <div class="slide slide4">
+                                        <div class="slide-content"> </div>
+                                        
+                                    </div>
+
+                                    <div class="slide slide5">
+                                        <div class="slide-content"> </div>
+                                        
+                                    </div>
+                                </div>
+
+                            <div id="arrow-right" class="arrow"></div> <!-- Flèche droite -->
+                        </div>
+					</aside>
+
+						<h2> News </h2>
+
+					<div id="corps_article">
+
+							<hr/>
+						<div id="article">
+
+							<article> <p> <a href="images/bird_nb.jpg"> <img src="images/img3_carre.jpg" alt="bird"/> 01.04.18_ Cet oiseau qui était au dessus de ma tête n'a pu échapper à mon objectif. :) </a> </p> </article>
+
+							<article> <p> <a href="images/eden_lion.jpg"> <img src="images/img1_carre.jpg" alt="chien"/> 25.11.17_ Petite promenade avec mon sujet favori : mon chien. En forêt d'Ecouves. </a> </p> </article>
+
+							<article> <p> <a href="images/foret_hiver.jpg"> <img src="images/img2_carre.jpg" alt="foret"/> 25.11.17_ Forêt d'Ecouves sous un joli ciel bleu. </a> </p> </article>
+
+						</div>
+					</div>	
+				</section>
+				
+					<br/>
+					<br/>
+					
+			
+				<!-- PIED DE PAGE -->
+					<footer>
+						<br/>
+						<p class="plan"> Plan du site </p>
+						<br/>
+						<p> <a href="index.html"> Accueil </a> </p>
+						<p> <a href="porfolio.html"> Porfolio </a> </p>
+						<p> <a href="presentation.html"> Présentation </a> </p>
+						<p> <a href="contact.html"> Contact </a> </p>
+						<br/>
+						<p class="copyright">Copyright © 2018 Elodie Meunier. Tous droits réservés</p>
+					</footer>
+			</div>
+
+			
+		</body>
+
+	</html>
